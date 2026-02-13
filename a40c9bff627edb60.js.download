@@ -1,0 +1,146 @@
+;!function(){try { var e="undefined"!=typeof globalThis?globalThis:"undefined"!=typeof global?global:"undefined"!=typeof window?window:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&((e._debugIds|| (e._debugIds={}))[n]="b2382671-8cd9-51b4-6fca-a7b6b7c1ce6b")}catch(e){}}();
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,393660,488720,e=>{"use strict";var s=e.i(276385),n=e.i(116235);function t(e){return(0,s.jsx)(n.default,{...e,children:(0,s.jsx)("path",{fillRule:"evenodd",d:"M20 1.25A2.75 2.75 0 0 1 22.75 4v8A2.75 2.75 0 0 1 20 14.75h-2.76a1.252 1.252 0 0 0-1.119.693l-3.45 6.893a.75.75 0 0 1-.68.414 3.88 3.88 0 0 1-3.765-4.596l.045-.214.776-3.19H4.17a2.751 2.751 0 0 1-2.64-3.52l2.33-8A2.751 2.751 0 0 1 6.5 1.25H20ZM6.5 2.75a1.25 1.25 0 0 0-1.2.9l-2.33 8a1.255 1.255 0 0 0 .641 1.468c.174.087.365.132.559.132H10a.75.75 0 0 1 .729.927l-1 4.12v.003a2.382 2.382 0 0 0 1.248 2.7c.185.093.382.159.583.2l3.22-6.426a2.75 2.75 0 0 1 1.47-1.337V2.75H6.5Zm11.25 10.5H20A1.25 1.25 0 0 0 21.25 12V4A1.25 1.25 0 0 0 20 2.75h-2.25v10.5Z",clipRule:"evenodd"})})}function i(e){return(0,s.jsx)(n.default,{...e,children:(0,s.jsx)("path",{fillRule:"evenodd",d:"M12.01 1.25a3.88 3.88 0 0 1 3.719 4.81l-.002-.001-.774 3.191h4.877a2.75 2.75 0 0 1 2.64 3.52l-2.33 8a2.75 2.75 0 0 1-2.64 1.98H4A2.75 2.75 0 0 1 1.25 20v-8A2.75 2.75 0 0 1 4 9.25h2.76l.173-.012a1.251 1.251 0 0 0 .945-.681l3.451-6.893.055-.092a.751.751 0 0 1 .626-.322ZM4 10.75A1.25 1.25 0 0 0 2.75 12v8A1.25 1.25 0 0 0 4 21.25h2.25v-10.5H4Zm5.22-1.524a2.75 2.75 0 0 1-1.47 1.337V21.25h9.75a1.25 1.25 0 0 0 1.2-.9l2.33-8a1.255 1.255 0 0 0-.641-1.468 1.25 1.25 0 0 0-.559-.132H14a.75.75 0 0 1-.729-.927l1-4.12V5.7A2.382 2.382 0 0 0 13.024 3a2.382 2.382 0 0 0-.585-.201L9.221 9.226Z",clipRule:"evenodd"})})}e.s(["default",()=>t],393660),e.s(["default",()=>i],488720)},232949,15720,e=>{"use strict";var s=e.i(276385),n=e.i(116235);function t(e){return(0,s.jsx)(n.default,{...e,children:(0,s.jsx)("path",{fillRule:"evenodd",d:"m12 1.25.178.013c.117.016.231.049.34.097l.157.082.144.105c.091.076.17.164.238.262l.09.153 2.31 4.68a1.374 1.374 0 0 0 1.031.75l5.166.756c.177.025.346.088.496.182l.145.106.128.124c.079.088.145.187.197.294l.067.165.043.173a1.282 1.282 0 0 1-.248 1.006l-.119.133-3.736 3.638a1.373 1.373 0 0 0-.395 1.214l.882 5.14a1.279 1.279 0 0 1-1.863 1.349l-4.614-2.426a1.373 1.373 0 0 0-1.276 0h.001l-4.616 2.426a1.28 1.28 0 0 1-1.785-.65 1.282 1.282 0 0 1-.093-.524l.019-.178.88-5.135a1.374 1.374 0 0 0-.394-1.216l-3.736-3.637a1.279 1.279 0 0 1 .709-2.185l5.165-.755a1.373 1.373 0 0 0 1.032-.75l2.31-4.679c.105-.214.27-.395.472-.52l.157-.084A1.28 1.28 0 0 1 12 1.25ZM9.889 7.306a2.874 2.874 0 0 1-2.161 1.57L3 9.566l3.419 3.329a2.873 2.873 0 0 1 .827 2.543l-.807 4.7 4.225-2.22.156-.076a2.872 2.872 0 0 1 2.515.076l4.226 2.22-.807-4.701a2.875 2.875 0 0 1 .826-2.542l3.417-3.327-4.725-.692a2.88 2.88 0 0 1-2.16-1.57L12 3.026l-2.111 4.28Z",clipRule:"evenodd"})})}function i(e){return(0,s.jsx)(n.default,{...e,children:(0,s.jsx)("path",{d:"m12 1.25.178.013c.117.016.231.049.34.097l.157.082.144.105c.091.076.17.164.238.262l.09.153 2.31 4.68a1.374 1.374 0 0 0 1.031.75l5.166.756c.177.025.346.088.496.182l.145.106.128.124c.079.088.145.187.197.294l.067.165.043.173a1.282 1.282 0 0 1-.248 1.006l-.119.133-3.736 3.638a1.373 1.373 0 0 0-.395 1.214l.882 5.14a1.279 1.279 0 0 1-1.863 1.349l-4.614-2.426a1.373 1.373 0 0 0-1.276 0h.001l-4.616 2.426a1.28 1.28 0 0 1-1.785-.65 1.282 1.282 0 0 1-.093-.524l.019-.178.88-5.135a1.374 1.374 0 0 0-.394-1.216l-3.736-3.637a1.279 1.279 0 0 1 .709-2.185l5.165-.755a1.373 1.373 0 0 0 1.032-.75l2.31-4.679c.105-.214.27-.395.472-.52l.157-.084A1.28 1.28 0 0 1 12 1.25Z"})})}e.s(["default",()=>t],232949),e.s(["default",()=>i],15720)},538157,345904,e=>{"use strict";var s=e.i(973245),n=e.i(304277);e.i(566901);let t={},i=s.gql`
+    fragment MultiplayerUsernameSearchUser on User {
+  id
+  firstName
+  lastName
+  fullName
+  username
+  image
+}
+    `,r=s.gql`
+    query MultiplayerUsernameSearch($query: String!, $limit: Int) {
+  usernameSearch(query: $query, limit: $limit) {
+    id
+    ...MultiplayerUsernameSearchUser
+  }
+}
+    ${i}`;function l(e){let s={...t,...e};return n.useQuery(r,s)}e.s(["useMultiplayerUsernameSearchQuery",()=>l],538157);var o=e.i(276385),a=e.i(714165);let c=e=>{let s=(e=>{switch(e){case"xxs":case"xs":return 12;case"s":return 16;case"m":return 24;case"l":return 64;case"xl":return 128;default:return}})(e.size),n={...e.style};return s||(n.width="100%",n.height="100%"),(0,o.jsx)(a.Avatar,{style:n,size:s,src:e.url??null,username:e.username,fullName:null===e.fullName?void 0:e.fullName})};c.defaultProps={size:"m"},e.s(["default",0,c],345904)},904678,e=>{"use strict";var s=e.i(973245),n=e.i(951262);let t={},i=s.gql`
+    mutation setExtensionListed($extensionId: String!, $isListed: Boolean!) {
+  setExtensionListed(extensionId: $extensionId, isListed: $isListed) {
+    ... on UserError {
+      message
+    }
+    ... on UnauthorizedError {
+      message
+    }
+    ... on Extension {
+      id
+      isListed
+    }
+  }
+}
+    `;function r(e){let s={...t,...e};return n.useMutation(i,s)}let l=s.gql`
+    mutation uninstallExtension($installationId: String!) {
+  uninstallExtension(installationId: $installationId) {
+    ... on UserError {
+      message
+    }
+    ... on ExtensionInstallation {
+      id
+    }
+  }
+}
+    `;function o(e){let s={...t,...e};return n.useMutation(l,s)}let a=s.gql`
+    mutation deleteExtension($extensionId: String!) {
+  deleteExtension(extensionId: $extensionId) {
+    ... on UserError {
+      message
+    }
+    ... on UnauthorizedError {
+      message
+    }
+    ... on Extension {
+      id
+    }
+  }
+}
+    `;function c(e){let s={...t,...e};return n.useMutation(a,s)}let u=s.gql`
+    mutation setExtensionBlessed($extensionId: String!, $isBlessed: Boolean!) {
+  setExtensionBlessed(extensionId: $extensionId, isBlessed: $isBlessed) {
+    ... on UserError {
+      message
+    }
+    ... on UnauthorizedError {
+      message
+    }
+    ... on Extension {
+      id
+      isBlessed
+    }
+  }
+}
+    `;function d(e){let s={...t,...e};return n.useMutation(u,s)}let x=s.gql`
+    mutation setExtensionFeatured($extensionId: String!, $isFeatured: Boolean!) {
+  setExtensionFeatured(extensionId: $extensionId, isFeatured: $isFeatured) {
+    ... on UserError {
+      message
+    }
+    ... on UnauthorizedError {
+      message
+    }
+    ... on Extension {
+      id
+      isFeatured
+    }
+  }
+}
+    `;function h(e){let s={...t,...e};return n.useMutation(x,s)}e.s(["useDeleteExtensionMutation",()=>c,"useSetExtensionBlessedMutation",()=>d,"useSetExtensionFeaturedMutation",()=>h,"useSetExtensionListedMutation",()=>r,"useUninstallExtensionMutation",()=>o])},818660,e=>{"use strict";var s=e.i(276385),n=e.i(9293),t=e.i(480028);function i({size:e,baseUrl:i,icon:r}){let l=i&&r?(0,n.getAssetUrl)(i,r):null;return(0,s.jsx)("div",{css:{background:l?`url(${l}) no-repeat center center / contain`:"radial-gradient(89% 90% at 11% 10%, rgb(255 255 255 / 79%) 0%, #91d900 98.6%)",width:e,minWidth:e,height:e,minHeight:e,borderRadius:12,flexGrow:1,border:`solid 1px ${t.tokens.backgroundHigher}`}})}e.s(["ExtensionIcon",()=>i])},34090,e=>{"use strict";var s=e.i(276385),n=e.i(674918),t=e.i(613355),i=e.i(714165),r=e.i(656388),l=e.i(960178),o=e.i(625484),a=e.i(964269);function c({user:e,size:c=16}){return"replit"===e.username||"util"===e.username?(0,s.jsxs)(a.HStack,{spacing:1,align:"center",children:[(0,s.jsx)(r.LogoSymbol,{size:c}),(0,s.jsx)(l.Text,{variant:"text",color:"dimmest",multiline:!1,children:"Replit"})]}):(0,s.jsx)(o.View,{css:[{maxWidth:"fit-content",zIndex:1}],children:(0,s.jsxs)(n.UserLink,{user:e,css:[{color:"inherit"},t.rcss.viewStyle,t.rcss.rowWithGap(c<24?4:8),t.rcss.align.center,t.rcss.focusRing,t.rcss.borderRadius(8),t.rcss.cursor.pointer],children:[(0,s.jsx)(i.Avatar,{src:e.image,username:e.username,size:c,layout:"intrinsic"}),(0,s.jsx)(l.Text,{multiline:!1,translate:"no",children:e.username})]})})}e.s(["AuthorPill",()=>c])},3456,e=>{"use strict";var s=e.i(276385),n=e.i(480028),t=e.i(446530),i=e.i(613355),r=e.i(625484);let l=(0,t.cssRecord)({styles0:[i.rcss.display.flex,i.rcss.flex.wrap,i.rcss.flex.row,{gap:n.tokens.space8}]});function o({children:e}){return(0,s.jsx)(r.View,{css:l.styles0,align:"center",children:e})}e.s(["PillBox",()=>o])},972882,e=>{"use strict";var s=e.i(276385),n=e.i(389959),t=e.i(904678),i=e.i(619542),r=e.i(36654),l=e.i(712771),o=e.i(979530),a=e.i(828322),c=e.i(232949),u=e.i(15720),d=e.i(393660),x=e.i(488720),h=e.i(491194),f=e.i(222342),m=e.i(480028),g=e.i(446530),p=e.i(754873),j=e.i(173703),y=e.i(613355),w=e.i(136540),v=e.i(119274),E=e.i(739521),b=e.i(624782),I=e.i(960178),k=e.i(625484),T=e.i(557862),S=e.i(34090),M=e.i(818660),$=e.i(3456),C=e.i(964269);let V=(e,s)=>e.isMod&&!s.isMod?1:!e.isMod&&s.isMod?-1:e.isDestructive&&!s.isDestructive?1:!e.isDestructive&&s.isDestructive?-1:0,B=(0,g.cssRecord)({styles0:[y.rcss.position.relative],styles1:[y.rcss.border({color:m.tokens.backgroundHigher,style:"solid",width:1}),y.rcss.borderRadius(8),y.rcss.width("100%"),y.rcss.p(12),y.rcss.cursor.pointer,p.interactive.filledAndOutlined,y.rcss.flex.column,y.rcss.colWithGap(8),y.rcss.color.foregroundDefault,{textAlign:"left"}],styles2:[y.rcss.width("100%")],styles5:[y.rcss.width("100%")],styles8:[y.rcss.color.accentPositiveStronger],styles9:[y.rcss.color.foregroundDimmer,y.rcss.border({color:m.tokens.outlineDimmer})],styles10:[y.rcss.position.absolute,y.rcss.top(8),y.rcss.right(8)]});function L({extension:e,tag:g="button",onClick:p,showMetadata:y=!0,href:L,canModerate:A=!1,currentUserId:U,refetch:D=()=>{}}){let R=e.manifest,{showConfirm:q}=(0,f.default)(),[F]=(0,t.useSetExtensionListedMutation)(),[H]=(0,t.useSetExtensionBlessedMutation)(),[N]=(0,t.useSetExtensionFeaturedMutation)(),[O]=(0,t.useUninstallExtensionMutation)({onCompleted:D}),[P]=(0,t.useDeleteExtensionMutation)(),[z,_]=(0,n.useState)(!1);if(R?.__typename!=="ExtensionManifest")return null;let G="replit"===e.user.username||"util"===e.user.username,Q=e.isBlessed,W=e.installation?.id,Z=[];return(A||U===e.user.id)&&e.isListed&&Z.push({label:"Unlist",value:"unlist",icon:(0,s.jsx)(o.default,{size:16}),isDestructive:!1,isMod:A&&U!==e.user.id,callback:()=>{F({variables:{extensionId:e.id,isListed:!1}}).then(D)}}),(A||U===e.user.id)&&(e.isListed||Z.push({label:"List",value:"list",icon:(0,s.jsx)(l.default,{size:16}),isDestructive:!1,isMod:A&&U!==e.user.id,callback:()=>{F({variables:{extensionId:e.id,isListed:!0}}).then(D)}}),Z.push({label:"Delete from store",value:"delete",icon:(0,s.jsx)(h.default,{}),isDestructive:!0,isMod:A&&U!==e.user.id,callback:()=>{_(!0)}})),A&&(Z.push({label:Q?"Un-bless":"Bless",value:Q?"unbless":"bless",icon:Q?(0,s.jsx)(d.default,{}):(0,s.jsx)(x.default,{}),isMod:!0,isDestructive:!1,callback:()=>{H({variables:{extensionId:e.id,isBlessed:!Q}}).then(D)}}),Z.push({label:e.isFeatured?"Un-feature":"Feature",value:e.isFeatured?"unfeature":"feature",icon:e.isFeatured?(0,s.jsx)(c.default,{}):(0,s.jsx)(u.default,{}),isMod:!0,isDestructive:!1,callback:()=>{N({variables:{extensionId:e.id,isFeatured:!e.isFeatured}}).then(D)}})),W&&Z.push({label:"Uninstall",value:"uninstall",isMod:!1,isDestructive:!0,icon:(0,s.jsx)(i.default,{}),callback:()=>{O({variables:{installationId:W}})}}),(0,s.jsxs)(j.ShadesSurface,{css:B.styles0,elevate:!1,children:[(0,s.jsxs)(k.View,{css:B.styles1,tag:g,href:L,onClick:p,children:[(0,s.jsxs)(C.HStack,{spacing:2,wrap:"nowrap",css:B.styles2,children:[(0,s.jsx)(k.View,{grow:0,children:(0,s.jsx)(M.ExtensionIcon,{size:64,baseUrl:e.url,icon:R.icon})}),(0,s.jsxs)(k.View,{grow:!0,shrink:!0,gap:4,children:[(0,s.jsx)(C.HStack,{align:"center",justify:"space-between",children:(0,s.jsx)(I.Text,{variant:"subheadBig",multiline:!1,children:R.name??e.name})}),(0,s.jsx)(S.AuthorPill,{user:e.user}),(0,s.jsx)(I.Text,{variant:"text",color:"dimmer",maxLines:2,children:R.description??e.description})]})]}),y?(0,s.jsx)(k.View,{css:B.styles5,children:(0,s.jsxs)($.PillBox,{children:[(0,s.jsxs)(k.View,{row:!0,gap:4,children:[(0,s.jsx)(r.default,{color:m.tokens.foregroundDimmer}),(0,s.jsx)(I.Text,{color:"dimmer",variant:"small",multiline:!1,children:e.installCount})]}),(0,s.jsxs)(k.View,{row:!0,gap:8,align:"center",children:[G?(0,s.jsx)(b.Pill,{text:"Official",css:B.styles8}):null,R.tags?.slice(0,5).map(e=>(0,s.jsx)(b.Pill,{text:`#${e}`,css:B.styles9},e))]})]})}):null]}),Z.length>0&&y?(0,s.jsx)(k.View,{css:B.styles10,children:(0,s.jsx)(v.PopupMenu,{label:"Extension actions",trigger:(0,s.jsx)(w.IconButton,{alt:"Extension actions",children:(0,s.jsx)(a.default,{})}),children:Z.sort(V).map(({label:e,value:n,icon:t,isDestructive:i,isMod:r,callback:l})=>(0,s.jsx)(v.MenuItem,{icon:t,label:e+(r?" [MOD]":""),isDestructive:i,onAction:()=>{l()}},n))})}):null,(0,s.jsx)(E.Modal,{isOpen:z,onRequestClose:()=>{_(!1)},children:(0,s.jsx)(T.default,{delete:()=>{P({variables:{extensionId:e.id}}).then(()=>{D(),q("Extension deleted: "+e.name)}),_(!1)},hideModal:()=>{_(!1)},entityType:"extension",description:e.name})})]})}e.s(["ExtensionCard",()=>L])},700541,e=>{"use strict";var s=e.i(973245),n=e.i(692043),t=e.i(304277);e.i(566901);let i={},r=s.gql`
+    query extensions($count: Int, $after: Int, $userId: Int, $order: ExtensionOrderType, $include: ExtensionInclusionType, $query: String, $filter: ExtensionFilterType) {
+  extensions(
+    count: $count
+    after: $after
+    userId: $userId
+    order: $order
+    include: $include
+    query: $query
+    filter: $filter
+  ) {
+    ... on ExtensionConnection {
+      pageInfo {
+        nextCursor
+        hasNextPage
+      }
+      items {
+        ...TopLevelExtension
+      }
+    }
+  }
+}
+    ${n.TopLevelExtensionFragmentDoc}`;function l(e){let s={...i,...e};return t.useQuery(r,s)}let o=s.gql`
+    query extensionsAsUser($count: Int, $after: Int, $userId: Int, $order: ExtensionOrderType, $include: ExtensionInclusionType, $query: String, $filter: ExtensionFilterType) {
+  extensions(
+    count: $count
+    after: $after
+    userId: $userId
+    order: $order
+    include: $include
+    query: $query
+    filter: $filter
+  ) {
+    ... on ExtensionConnection {
+      pageInfo {
+        nextCursor
+        hasNextPage
+      }
+      items {
+        ...TopLevelExtension
+        installation {
+          ...TopLevelExtensionInstallation
+        }
+      }
+    }
+  }
+}
+    ${n.TopLevelExtensionFragmentDoc}
+${n.TopLevelExtensionInstallationFragmentDoc}`;function a(e){let s={...i,...e};return t.useQuery(o,s)}let c=s.gql`
+    query ExtensionModerateStatus {
+  currentUser {
+    isAdmin: hasRole(role: ADMIN)
+    id
+  }
+}
+    `;function u(e){let s={...i,...e};return t.useQuery(c,s)}e.s(["useExtensionModerateStatusQuery",()=>u,"useExtensionsAsUserQuery",()=>a,"useExtensionsQuery",()=>l])},495954,e=>{"use strict";var s=e.i(276385),n=e.i(389959),t=e.i(700541),i=e.i(368964),r=e.i(887964),l=e.i(123515),o=e.i(952521),a=e.i(613355),c=e.i(628796),u=e.i(960178),d=e.i(625484),x=e.i(416746),h=e.i(269848),f=e.i(253344),m=e.i(858248),g=e.i(709485),p=e.i(480028),j=e.i(446530),y=e.i(173703),w=e.i(140487),v=e.i(972882);let E=(0,j.cssRecord)({resultEndIndicator:[a.rcss.borderRadius(8),a.rcss.border({color:p.tokens.backgroundHighest}),a.rcss.rowWithGap(8)]});function b({openExtensionCover:e,storeMode:n,canModerate:t,currentUserId:i,refetch:r,extensions:l,loading:o,loadMore:c}){return(0,s.jsx)(d.View,{css:a.rcss.flex.column,children:(0,s.jsx)(d.View,{p:8,gap:8,children:l.length>0?(0,s.jsxs)(s.Fragment,{children:[l.map(l=>(0,s.jsx)(v.ExtensionCard,{extension:l,canModerate:t,currentUserId:i,refetch:r,onClick:()=>{(0,m.track)(g.events.EXTENSION_USED,{action:"cover_page_viewed",source:"store"}),e?.((0,f.asExtensionId)(l.id))},..."external"===n?{href:`/extension/@${l.user.username}/${l.id}`,tag:"a"}:{}},l.id)),(0,s.jsx)(d.View,{css:a.rcss.center,children:c?(0,s.jsx)(w.Button,{iconLeft:o?(0,s.jsx)(h.default,{}):void 0,text:"Show More",disabled:o,onClick:()=>{c()}}):null})]}):(0,s.jsx)(d.View,{p:8,justify:"center",row:!0,children:o?(0,s.jsx)(h.default,{}):(0,s.jsxs)(y.ShadesSurface,{css:E.resultEndIndicator,px:8,py:4,align:"center",children:[(0,s.jsx)(x.default,{}),(0,s.jsx)(u.Text,{multiline:!1,children:"No results found. Try another search."})]})})})})}var I=e.i(183035),k=e.i(399245),T=e.i(98816),S=e.i(721321),M=e.i(51054),$=e.i(888136),C=e.i(84466),V=e.i(538157),B=e.i(334028),L=e.i(162914),A=e.i(222342),U=e.i(428596),D=e.i(607278),R=e.i(345904);let q=(0,j.cssRecord)({searchContainer:[a.rcss.position.relative,a.rcss.flex.growAndShrink(1)],dropdownMenu:[a.rcss.borderRadius(8),a.rcss.overflow("hidden"),a.rcss.mt(2),a.rcss.zIndex(2),a.rcss.border({color:p.tokens.outlineDimmer,width:1,style:"solid"}),a.rcss.maxHeight(280),a.rcss.overflowY("auto"),a.rcss.scrollbar.thin,{scrollbarColor:p.tokens.backgroundHigher+" "+p.tokens.backgroundHighest,"&::-webkit-scrollbar-thumb":{backgroundColor:p.tokens.backgroundHighest}}],result:[a.rcss.p(8),a.rcss.rowWithGap(8),a.rcss.justify.spaceBetween,a.rcss.align.center,a.rcss.cursor.pointer],result_active:[a.rcss.backgroundColor.accentPrimaryDimmer],loadingContainer:[a.rcss.m(8),a.rcss.rowWithGap(8),a.rcss.align.center],emptyText:[a.rcss.m(8)],resultContainer:[a.rcss.position.absolute,a.rcss.top("calc(100% + 8px)"),a.rcss.left(0),a.rcss.width("100%"),{boxShadow:p.tokens.shadow1}]});function F({onSelect:e}){let[t,i]=(0,n.useState)(""),r=(0,U.useIdSeed)(),l=(0,L.default)(t.trim().replace(/^@/,""),250),{data:o,loading:c,error:x}=(0,V.useMultiplayerUsernameSearchQuery)({skip:!l||(0,C.default)(t),variables:{query:l,limit:6}}),{showError:f}=(0,A.default)();(0,n.useEffect)(()=>{x&&f(x.message)},[x,f]);let m=o?.usernameSearch;return(0,s.jsx)($.default,{onChange:s=>{s&&(i(s.username),e(s))},itemToString:e=>e?.username||"",initialHighlightedIndex:0,defaultHighlightedIndex:0,onInputValueChange:s=>{s||e(null)},children:({getInputProps:e,getItemProps:n,getMenuProps:l,isOpen:o,highlightedIndex:x,getRootProps:f})=>(0,s.jsxs)(d.View,{css:q.searchContainer,...f({refKey:"innerRef"}),children:[(0,s.jsxs)(d.View,{css:[a.rcss.position.relative],children:[(0,s.jsx)(D.Input,{id:r("username-search"),...e({ref:null,value:t,onChange:e=>i(e.currentTarget.value),placeholder:"Find a creator",autoComplete:"off"})}),(0,s.jsx)(d.View,{css:[a.rcss.position.absolute,a.rcss.center,a.rcss.p(8),{top:0,right:0,height:"100%",pointerEvents:"none"}],children:(0,s.jsx)(B.default,{})})]}),o?(0,s.jsxs)(d.View,{css:q.resultContainer,children:[m&&m.length?(0,s.jsx)(y.ShadesSurface,{css:q.dropdownMenu,tag:"ul",...l({refKey:"innerRef"}),children:m.map((e,t)=>(0,s.jsx)(d.View,{tag:"li",...n({item:e,index:t}),css:[q.result,t===x&&q.result_active],children:(0,s.jsxs)(d.View,{row:!0,gap:8,align:"center",children:[(0,s.jsx)(R.default,{size:"m",url:e.image,username:e.username,fullName:e.fullName}),(0,s.jsx)(u.Text,{multiline:!1,translate:"no",children:e.username})]})},t))}):null,c?(0,s.jsx)(y.ShadesSurface,{css:q.dropdownMenu,children:(0,s.jsxs)(d.View,{css:q.loadingContainer,align:"center",children:[(0,s.jsx)(h.default,{}),(0,s.jsx)(u.Text,{color:"dimmer",multiline:!1,children:"Loading…"})]})}):null,m&&0===m.length?(0,s.jsx)(y.ShadesSurface,{css:q.dropdownMenu,children:(0,s.jsxs)(u.Text,{css:q.emptyText,color:"dimmer",multiline:!1,children:['No results found for "',t,'"']})}):null]}):null]})})}var H=e.i(679668);let N=(0,j.cssRecord)({styles1:[a.rcss.minWidth(220),a.rcss.flex.growAndShrink(1)]}),O=(0,j.cssRecord)({filterContainer:[a.rcss.flex.wrap,a.rcss.px(8),a.rcss.py(16),a.rcss.border({direction:"bottom",color:p.tokens.backgroundHigher}),{gap:8}]}),P=[{title:"Top",value:i.ExtensionOrderType.Top},{title:"Newest",value:i.ExtensionOrderType.New},{title:"Oldest",value:i.ExtensionOrderType.Old},{title:"Random",value:i.ExtensionOrderType.Random}],z={include:i.ExtensionInclusionType.Blessed,query:"",order:i.ExtensionOrderType.Random,userId:null};function _(e,s){return{...e,...s}}function G({page:e,loading:t,onChange:r}){let[l,o]=(0,n.useReducer)(_,z),c=(0,T.default)(r);return(0,n.useEffect)(()=>{c.current(l)},[c,l]),(0,s.jsxs)(d.View,{css:O.filterContainer,row:!0,children:[(0,s.jsx)(d.View,{grow:!0,shrink:!0,children:(0,s.jsx)(M.SearchBar,{value:l.query,onChange:e=>o({query:e.target.value}),onClear:()=>o({query:""}),loading:t,placeholder:"Search by title or keyword"})}),"store"===e?(0,s.jsxs)(s.Fragment,{children:[(0,s.jsx)(d.View,{css:N.styles1,children:(0,s.jsx)(F,{onSelect:e=>o({userId:e?.id??null})})}),(0,s.jsxs)(d.View,{grow:!0,shrink:!0,row:!0,gap:8,children:[(0,s.jsxs)(S.ButtonGroup,{name:"ExtensionsBlessedInclusion",value:l.include,onChange:e=>o({include:e}),row:!0,disabled:t,children:[(0,s.jsx)(S.ButtonGroupItem,{icon:(0,s.jsx)(I.default,{}),value:i.ExtensionInclusionType.Blessed,text:"Verified",id:"ExtensionsBlessedInclusionBlessed"}),(0,s.jsx)(S.ButtonGroupItem,{icon:(0,s.jsx)(k.default,{}),value:i.ExtensionInclusionType.All,text:"All",id:"ExtensionsBlessedInclusionAll"})]}),(0,s.jsx)(H.Select,{"aria-label":"Sort extensions",items:P,selectedItem:P.find(e=>e.value===l.order),onChange:e=>o({order:e.value}),disabled:t,css:a.rcss.flex.growAndShrink(1)})]})]}):null]})}var Q=e.i(917255),W=e.i(91720);let Z=(0,j.cssRecord)({headerContainer:[a.rcss.border({color:p.tokens.backgroundHigher,direction:"bottom"}),a.rcss.pl(16)]});function K(){return(0,s.jsx)(d.View,{css:Z.headerContainer,p:8,gap:8,children:(0,s.jsxs)(d.View,{grow:!0,row:!0,gap:8,align:"center",justify:"end",children:[(0,s.jsx)(W.ButtonLink,{text:"Docs",iconLeft:(0,s.jsx)(Q.default,{}),href:"https://docs.replit.com/extensions",size:"small",variant:"outlined",target:"_blank"}),(0,s.jsx)(W.ButtonLink,{text:"Build an Extension",iconLeft:(0,s.jsx)(l.default,{}),href:"/new/extension",size:"small",variant:"outlined",target:"_blank"})]})})}var X=e.i(602686),Y=e.i(252204),J=e.i(47503),ee=e.i(136540);let es=(0,j.cssRecord)({headerContainer:[a.rcss.border({color:p.tokens.backgroundHigher,direction:"bottom"})]});function en(){let{setAsDone:e}=(0,o.useDismissibleElement)("extensions-store-info"),n=(0,J.useCurrentUserId)();return(0,s.jsx)(d.View,{css:es.headerContainer,p:8,gap:8,children:(0,s.jsx)(d.View,{pl:8,row:!0,gap:16,children:(0,s.jsxs)(d.View,{grow:2,shrink:2,gap:8,children:[(0,s.jsxs)(d.View,{row:!0,gap:8,align:"center",justify:"space-between",children:[(0,s.jsx)(u.Text,{variant:"headerDefault",children:"Extensions"}),n?(0,s.jsx)(ee.IconButton,{alt:"Dismiss",onClick:e,children:(0,s.jsx)(X.default,{})}):null]}),(0,s.jsx)(u.Text,{color:"dimmer",children:"Make your workspace more powerful with new tools, commands, and integrations."}),(0,s.jsxs)(d.View,{row:!0,gap:8,children:[(0,s.jsx)(W.ButtonLink,{text:"Learn More",iconRight:(0,s.jsx)(Y.default,{}),href:"https://docs.replit.com/extensions",size:"small",colorway:"primary",target:"_blank"}),(0,s.jsx)(W.ButtonLink,{text:"Build an Extension",iconLeft:(0,s.jsx)(l.default,{}),href:"/new/extension",size:"small",target:"_blank"})]})]})})})}let et=["store","manage"];function ei({storeMode:e,openExtensionCover:x,setPage:h,page:f}){let{isDone:m}=(0,o.useDismissibleElement)("extensions-store-info"),{data:g}=(0,t.useExtensionModerateStatusQuery)(),p=!!g?.currentUser?.isAdmin,j=g?.currentUser?.id,[y,w]=(0,n.useState)(z),[,v]=(0,n.useTransition)(),E=e=>{v(()=>w(e))},I="manage"===f?i.ExtensionFilterType.Installed:i.ExtensionFilterType.All,k=(0,t.useExtensionsAsUserQuery)({variables:{include:I===i.ExtensionFilterType.Installed?i.ExtensionInclusionType.All:y.include,query:y.query,order:y.order,filter:I,userId:y.userId},fetchPolicy:"cache-and-network",notifyOnNetworkStatusChange:!0,ssr:!1,skip:!j}),T=(0,t.useExtensionsQuery)({variables:{include:I===i.ExtensionFilterType.Installed?i.ExtensionInclusionType.All:y.include,query:y.query,order:y.order,filter:I,userId:y.userId},fetchPolicy:"cache-and-network",notifyOnNetworkStatusChange:!0,ssr:!1,skip:!!j}),{data:S,loading:M,refetch:$,fetchMore:C}=j?k:T,V=S?.extensions?.__typename==="ExtensionConnection"?S.extensions:null,B=V?.pageInfo.nextCursor,L=V?.items??[],A=L.filter(e=>e.isFeatured),U=B?()=>{C({variables:{after:Number(B)}})}:void 0;return(0,s.jsxs)(d.View,{css:[a.rcss.flex.column,a.rcss.flex.grow(1)],children:[m&&"external"===e?(0,s.jsxs)(d.View,{css:[a.rcss.flex.column,a.rcss.colWithGap(8),a.rcss.mb(24),a.rcss.p(8)],children:[(0,s.jsx)(u.Text,{variant:"headerDefault",multiline:!1,children:"Extensions"}),(0,s.jsx)(u.Text,{variant:"subheadDefault",color:"dimmer",children:"Make your workspace more powerful with new tools, commands, and integrations."})]}):null,(0,s.jsxs)(c.Tabs,{defaultSelectedKey:et[et.indexOf(f)],onSelectionChange:e=>{("store"===e||"manage"===e)&&h(e)},children:[j?(0,s.jsx)(s.Fragment,{children:m?(0,s.jsxs)(d.View,{row:!0,children:[(0,s.jsxs)(c.TabList,{withDividers:!0,css:{"[aria-selected=true]":[a.rcss.fontWeight.medium]},children:[(0,s.jsx)(c.Tab,{id:"store",iconLeft:(0,s.jsx)(l.default,{}),children:"Store"},1),(0,s.jsx)(c.Tab,{id:"manage",iconLeft:(0,s.jsx)(r.default,{}),children:"Installed"},2)]}),(0,s.jsx)(K,{})]}):(0,s.jsxs)(d.View,{css:a.rcss.flex.column,children:[(0,s.jsx)(en,{}),(0,s.jsxs)(c.TabList,{withDividers:!0,css:{"[aria-selected=true]":[a.rcss.fontWeight.medium]},children:[(0,s.jsx)(c.Tab,{id:"store",iconLeft:(0,s.jsx)(l.default,{}),css:[a.rcss.flex.grow(1),a.rcss.center],children:"Store"},1),(0,s.jsx)(c.Tab,{id:"manage",iconLeft:(0,s.jsx)(r.default,{}),css:[a.rcss.flex.grow(1),a.rcss.center],children:"Installed"},2)]})]})}):(0,s.jsx)(en,{}),(0,s.jsxs)(c.TabPanels,{children:[(0,s.jsxs)(c.TabPanel,{id:"store",children:[(0,s.jsx)(G,{page:f,loading:M,onChange:E}),null===y.userId&&""===y.query&&A.length>0?(0,s.jsxs)(s.Fragment,{children:[(0,s.jsxs)(d.View,{gap:2,px:8,pt:12,children:[(0,s.jsx)(u.Text,{variant:"subheadDefault",children:"Featured Extensions"}),(0,s.jsx)(u.Text,{color:"dimmer",children:"Our top picks to get you started"})]}),(0,s.jsx)(b,{refetch:$,openExtensionCover:x,storeMode:e,canModerate:p,currentUserId:j,extensions:A,loading:M}),(0,s.jsxs)(d.View,{gap:2,px:8,children:[(0,s.jsxs)(u.Text,{variant:"subheadDefault",children:[y.include===i.ExtensionInclusionType.Blessed?"Verified":"All"," ","Extensions"]}),y.include===i.ExtensionInclusionType.Blessed?(0,s.jsx)(u.Text,{color:"dimmer",children:"Extensions that have been reviewed by Replit"}):null]})]}):null,(0,s.jsx)(b,{refetch:$,openExtensionCover:x,storeMode:e,canModerate:p,currentUserId:j,extensions:L,loading:M,loadMore:U})]}),j?(0,s.jsxs)(c.TabPanel,{id:"manage",children:[(0,s.jsx)(G,{page:f,loading:M,onChange:E}),(0,s.jsx)(b,{refetch:$,openExtensionCover:x,storeMode:e,canModerate:p,currentUserId:j,extensions:L,loading:M,loadMore:U})]}):null]})]})]})}e.s(["EXTENSIONS_OPENGRAPH_IMAGE",0,"https://replit.com/public/images/extensions-opengraph.png","default",()=>ei],495954)}]);
+
+//# debugId=b2382671-8cd9-51b4-6fca-a7b6b7c1ce6b
+//# sourceMappingURL=a03ba80d4e3ecfab.js.map
